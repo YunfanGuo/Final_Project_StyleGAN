@@ -20,3 +20,5 @@ Training to the current round of generated samples (terminated early because of 
 <img width="235" alt="image" src="https://github.com/YunfanGuo/Final_Project_StyleGAN/assets/119873151/107605cc-3527-41ec-848a-e4fada0e79f5">
 
 This experiment had high hardware requirements and long training times. In the follow-up I moved to Google Colab to run the test, the test run time was equally long and did not improve. And problems occurred when deploying in the local environment, for example, some compatibility errors were encountered when installing the torch, which was eventually solved by searching on the web. I think there is still a lot of room for improvement in the follow-up, and how to try to collect more datasets if possible, in order to improve the generalization of the model and generate more diverse images.
+
+Video Link: https://youtu.be/qU-3esWJSdQ
